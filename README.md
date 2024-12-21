@@ -1,4 +1,4 @@
-Game is only played on windows. Follow these steps to play the game:
+### This Threaded Ball Game is only played on Windows. Follow these steps to play the game:
 * Git clone this repo.
 * Install UNITY 6(6000.0.24f1).
 * Install the latest version of Visual Studio.

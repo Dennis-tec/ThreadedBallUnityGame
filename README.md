@@ -6,4 +6,5 @@
 * Create a Microsoft SQL Server Database.
 * Enable SQL Server authentication for your new database.
 * Modify the connection string in line 37 of Assets/Scripts/SqlDatabase.cs file by replace the connection string with your database details: string connectionString = $"Server={ServerName};Database={DatabaseName};User ID={User ID};Password={Password};TrustServerCertificate=True;"
-* Follow the instructions from the Manual to learn how to play once your game is running.
+* Follow the instructions from the Manual(Project Design Document) to learn how to play once your game is running.
+* Check the project design document on how to play the game
